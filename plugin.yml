@@ -1,0 +1,4 @@
+name: tpa
+version: '${project.version}'
+main: pvp.untitled1.Tpa
+api-version: '1.20'
